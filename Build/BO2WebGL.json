@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Black Ops 2 WebGL",
+"productVersion": "0.1",
+"dataUrl": "BO2WebGL.data.unityweb",
+"wasmCodeUrl": "BO2WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "BO2WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
